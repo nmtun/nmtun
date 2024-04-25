@@ -16,9 +16,11 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nmtun&theme=white&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nmtun&theme=white&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmtun&theme=white&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nmtun&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45.45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmtun&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
+</p>
+
 
 # 📞 Contact me:
 <p align="left">

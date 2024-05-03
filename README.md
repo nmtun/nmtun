@@ -11,6 +11,7 @@
 # 💻 Frameworks and Tools:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=dark) 
+![VisualStudioCode](https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white) 
 
 # 💻 Databases:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 

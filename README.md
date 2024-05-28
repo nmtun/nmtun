@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
       <img src="https://img.shields.io/badge/css3-%23316192?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </div>
 
@@ -16,6 +16,8 @@
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
       <img src="https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=dark" alt="Github">
       <img src="https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VisualStudioCode">
+      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </div>
 
 <h1>💻 Databases:</h1>
@@ -34,11 +36,12 @@
 <h1>📞 Contact me:</h1>
 <p align="left">
 <a href="https://www.facebook.com/rudeuss/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tung Nguyen" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Tung Nguyen" /></a>
 <a href="https://www.instagram.com/toon_moc/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toon_moc" height="30" width="40" /></a>
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="toon_moc" /></a>
 <a href="https://github.com/nmtun" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nmtun" height="30" width="40" />
-</a>
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="nmtun" /></a>
+<a href="mailto:nmtung.work@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nmtung.work" /></a>
 </p>
 

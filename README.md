@@ -7,7 +7,6 @@
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
       <img src="https://img.shields.io/badge/css3-%23316192?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </div>
 
@@ -16,8 +15,6 @@
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
       <img src="https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=dark" alt="Github">
       <img src="https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VisualStudioCode">
-      <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </div>
 
 <h1>💻 Databases:</h1>

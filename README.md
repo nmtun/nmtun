@@ -13,7 +13,7 @@
 <h1>💻 Frameworks and Tools:</h1>
   <div style="display: flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-      <img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=blue" alt="ReactJS">
+      <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS">
       <img src="https://img.shields.io/badge/github-%23323330?style=for-the-badge&logo=github&logoColor=dark" alt="Github">
       <img src="https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VisualStudioCode">
   </div>

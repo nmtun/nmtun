@@ -30,7 +30,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmtun&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
 </p>
 
-<h1>📞 Contact me:</h1>
+<h1>☎️ Contact me:</h1>
 <p align="left">
 <a href="https://www.facebook.com/rudeuss/" target="blank">
   <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Tung Nguyen" /></a>
@@ -41,4 +41,4 @@
 <a href="mailto:nmtung.work@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nmtung.work" /></a>
 </p>
-
+⛅🌷🍀🌹🌻🌺🍄🌵🌲 🌴🌼🌾

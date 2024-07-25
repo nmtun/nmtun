@@ -19,6 +19,8 @@
       <img src="https://img.shields.io/badge/vscode-%2300599C?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="VisualStudioCode">
       <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
       <img src="https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailWinCSS">
+      <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
+
   </div>
 
 <h1>🐳 Databases:</h1>

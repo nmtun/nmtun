@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/css3-%23316192?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </div>  
 
-<h1>🐟 Frameworks and Tools:</h1>
+<h1>🐟 Frameworks and Tools:</h1> 
   <div style="display: flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS">

@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/sequelize-%23336799.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
 
   </div>
-
+ 
 <h1>🐳 Databases:</h1>
   <div style="display: flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">

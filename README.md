@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
       <img src="https://img.shields.io/badge/sequelize-%23336799.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize">
 
-  </div>
+  </div> 
  
 <h1>🐳 Databases:</h1>
   <div style="display: flex; flex-wrap: wrap;">

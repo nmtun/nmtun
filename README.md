@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">   
       <img src="https://img.shields.io/badge/css3-%23316192?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">   
   </div>     
-   
+    
 <h1>🐟 Frameworks and Tools:</h1>   
   <div style="display: flex; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">

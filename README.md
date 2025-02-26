@@ -31,12 +31,13 @@
       <img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongdoDB"> 
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </div>
-  
+<!--  
 <h1>📊 GitHub Stats:</h1> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nmtun&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45.45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmtun&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
 </p>
+-->
 
 <h1>☎️ Contact me:</h1>
 <p align="left">
